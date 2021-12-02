@@ -9,7 +9,7 @@
   {
     "id": "1",
     "name": "CONFLUENCE-R",
-    "img": "Projects/confluence-r.png",
+    "img": "Projects/Confluence-r.png",
     "desc": "Features include SERP Analysis, Automatic Light/Dark Mode, and Responsive Design. Build on Next Js and deployed on Vercel for Static Generation (SSG), Webp Image Compression, CSS Modules, and more.",
     "link": "https://confluence-r.com/"
   },
