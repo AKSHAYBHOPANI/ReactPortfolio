@@ -7,8 +7,8 @@ const [data,setData]=useState([]);
 
 const images = [
   { url: "./Slider/1.jpg" },
-  { url: "/Slider/2.jpg" },
-  { url: "/Slider/3.png" },
+  { url: "./Slider/2.jpg" },
+  { url: "./Slider/3.png" },
 ];
 
 const getData=()=>{
